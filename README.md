@@ -8,3 +8,4 @@ Je suis maire et ma commune consomme beaucoup d’énergie. Comment faire pour v
 
 PERLE est un plateforme web qui permet :
 
+![solar tracker](https://github.com/nicolasfguillaume/solar-tracker-iot-arduino/blob/master/solar-tracker-3.jpg)
