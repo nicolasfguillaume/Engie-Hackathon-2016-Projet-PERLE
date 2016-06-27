@@ -9,3 +9,21 @@ Je suis maire et ma commune consomme beaucoup d’énergie. Comment faire pour v
 PERLE est un plateforme web qui permet :
 
 ![solution](https://github.com/nicolasfguillaume/engie-power-data-hackathon/blob/master/perle-solution.jpg)
+
+## Screenshots
+
+### Diagnostique de Performance Energétique (DPE) par quartier
+![img1](https://github.com/nicolasfguillaume/engie-power-data-hackathon/blob/master/perle-solution.jpg)
+
+### Détail du DPE par quartier: répartition de la consommation par source et par type de batiment
+![img2](https://github.com/nicolasfguillaume/engie-power-data-hackathon/blob/master/perle-solution.jpg)
+
+### Détail du DPE par batiment: 
+![img3](https://github.com/nicolasfguillaume/engie-power-data-hackathon/blob/master/perle-solution.jpg)
+
+### Détail du DPE par batiment: 
+![img4](https://github.com/nicolasfguillaume/engie-power-data-hackathon/blob/master/perle-solution.jpg)
+
+## L'équipe PERLE a remporté le 3e prix du Hackathon Engie (sur 19 équipes)
+
+![3rd-prize](https://github.com/nicolasfguillaume/engie-power-data-hackathon/blob/master/perle-solution.jpg)
